@@ -1,0 +1,19 @@
+Acoording to Jarvis!/nSure, I can help you with that. What kind of AI are you looking for?
+
+Here are some examples of AI that are currently being used:
+
+* **Natural language processing (NLP)** is used to understand human language. This is used in voice assistants, chatbots, and machine translation.
+* **Image recognition** is used to identify objects in images. This is used in facial recognition, self-driving cars, and product recommendations.
+* **Machine learning (ML)** is used to train models to make predictions. This is used in fraud detection, spam filtering, and personalized recommendations.
+* **Robotics** is used to build robots that can perform tasks autonomously. This is used in manufacturing, healthcare, and customer service.
+
+AI is still a developing field, but it is already being used in a variety of ways. As AI technology continues to advance, we can expect to see even more innovative applications of AI in the future.
+
+Here are some specific examples of how AI is being used in India:
+
+* In the healthcare industry, AI is being used to develop new drugs, diagnose diseases, and provide personalized care.
+* In the agriculture industry, AI is being used to improve crop yields, manage pests, and optimize water usage.
+* In the manufacturing industry, AI is being used to automate production processes, improve quality control, and reduce waste.
+* In the financial services industry, AI is being used to detect fraud, predict customer behavior, and personalize investment advice.
+
+These are just a few examples of how AI is being used in India today. As AI technology continues to develop, we can expect to see even more innovative applications of AI in the future.
